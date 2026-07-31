@@ -1,4 +1,4 @@
-package com.grvchn.thirdeye
+package fewshot.android
 
 import org.junit.Test
 

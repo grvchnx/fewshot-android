@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "third-eye"
+rootProject.name = "fewshot-android"
 include(":app")

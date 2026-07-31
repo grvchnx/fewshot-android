@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.grvchn.thirdeye"
+    namespace = "fewshot.android"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.grvchn.thirdeye"
+        applicationId = "fewshot.android"
         minSdk = 34
         targetSdk = 37
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

@@ -1,4 +1,4 @@
-package com.grvchn.thirdeye
+package fewshot.android
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -95,7 +95,7 @@ fun MainScreen() {
                     if (bitmap != null) {
                         // 1. Run detection to get coordinates
                         val bestMatch = yoloManager.detect(bitmap)
-                        
+
                         if (bestMatch != null) {
                             // 2. Crop the image based on detection coordinates
                             croppedBitmap = yoloManager.cropDetection(bitmap, bestMatch)

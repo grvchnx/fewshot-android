@@ -1,4 +1,4 @@
-package com.grvchn.thirdeye
+package fewshot.android
 
 import android.net.Uri
 import androidx.activity.compose.ManagedActivityResultLauncher

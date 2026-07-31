@@ -1,4 +1,4 @@
-package com.grvchn.thirdeye
+package fewshot.android
 
 import android.content.Context
 import android.graphics.Bitmap
